@@ -1,7 +1,11 @@
 {
-"id":"954d9db3-049f-464c-b218-eadd628cf349",
-"columnNames":[
-"name":["Prediction","Confidence"]
+"returnedRequestInputValue":[
+{"name":"Age","type":"double","value":"1"},
+{"name":"BP","type":"string","value":"1"},
+{"name":"Cholesterol","type":"string","value":"1"},
+{"name":"Drug","type":"string","value":"1"},
+{"name":"K","type":"double","value":"1"},
+{"name":"Na","type":"double","value":"1"},
+{"name":"Gender","type":"string","value":"1"}
 ]
 }
-
