@@ -1,21 +1,11 @@
 {
-"returnedRequestInputValue":
-[
-    {
-       "empid":148,
-       "fname":"julie",
-       "lname":"jordan"
-    },
-    {
-       "empId":184,
-       "fname":"Melissa",
-       "lname":"Espinoza"
-    },
-    {
-       "empId":191,
-       "fname":"Jeannette",
-       "lname":"bertrand"
-    }
+"returnedRequestInputValue":[
+{"name":"Age","type":"double","value":"1"},
+{"name":"BP","type":"string","value":"1"},
+{"name":"Cholesterol","type":"string","value":"1"},
+{"name":"Drug","type":"string","value":"1"},
+{"name":"K","type":"double","value":"1"},
+{"name":"Na","type":"double","value":"1"},
+{"name":"Gender","type":"string","value":"1"}
 ]
-
 }
