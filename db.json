@@ -1,4 +1,6 @@
 {
 "id":"954d9db3-049f-464c-b218-eadd628cf349",
-"returnedDPDOutputTable":[]
+"columnNames":[
+"name":["Prediction","Confidence"]
+]
 }
