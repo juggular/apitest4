@@ -1,3 +1,20 @@
+[
+{
+"id":"954d9db3-049f-464c-b218-eadd628cf349",
+"columnNames":[
+"name":["Prediction","Confidence"]
+],
+"rowValues":[
+{
+"reserved":null,
+"value":[{"value":"2"},{"value":"1.3415297614991626"}]
+}
+],
+"returnedRequestInputTable":[
+{
+"name":"Table 1",
+"id":"Table 1",
+"returnedRequestInputRow":[
 {
 "returnedRequestInputValue":[
 {"name":"Age","type":"double","value":"1"},
@@ -9,3 +26,9 @@
 {"name":"Gender","type":"string","value":"1"}
 ]
 }
+]
+}
+],
+"returnedDPDOutputTable":[]
+}
+]
